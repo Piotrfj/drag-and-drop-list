@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/drag-and-drop-list/static/css/main.f197bd6c.chunk.css",
+    "main.js": "/drag-and-drop-list/static/js/main.f7d7db96.chunk.js",
+    "main.js.map": "/drag-and-drop-list/static/js/main.f7d7db96.chunk.js.map",
+    "runtime-main.js": "/drag-and-drop-list/static/js/runtime-main.e3671a4c.js",
+    "runtime-main.js.map": "/drag-and-drop-list/static/js/runtime-main.e3671a4c.js.map",
+    "static/js/2.33ef5c84.chunk.js": "/drag-and-drop-list/static/js/2.33ef5c84.chunk.js",
+    "static/js/2.33ef5c84.chunk.js.map": "/drag-and-drop-list/static/js/2.33ef5c84.chunk.js.map",
+    "index.html": "/drag-and-drop-list/index.html",
+    "precache-manifest.af751c9f8c8008a92f75a1917949ed70.js": "/drag-and-drop-list/precache-manifest.af751c9f8c8008a92f75a1917949ed70.js",
+    "service-worker.js": "/drag-and-drop-list/service-worker.js",
+    "static/css/main.f197bd6c.chunk.css.map": "/drag-and-drop-list/static/css/main.f197bd6c.chunk.css.map",
+    "static/js/2.33ef5c84.chunk.js.LICENSE.txt": "/drag-and-drop-list/static/js/2.33ef5c84.chunk.js.LICENSE.txt",
+    "static/media/hamburger.b7dde0cd.svg": "/drag-and-drop-list/static/media/hamburger.b7dde0cd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e3671a4c.js",
+    "static/js/2.33ef5c84.chunk.js",
+    "static/css/main.f197bd6c.chunk.css",
+    "static/js/main.f7d7db96.chunk.js"
+  ]
+}
